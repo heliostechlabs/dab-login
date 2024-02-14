@@ -2,7 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 const https = require('https');
 
-const pemFilePath = 'dab.p12'; // Path to your combined PEM file
+const pemFilePath = 'dialabank.pem'; // Path to your combined PEM file
 
 // Read the combined PEM file
 const pemData = fs.readFileSync(pemFilePath);
