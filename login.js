@@ -21,7 +21,7 @@ const requestBody = {
 };
 
 const headers = {
-  'x-fapi-channel-id': 'DIALABANK',
+  'x-fapi-channel-id': 'DAILABANK',
   'x-fapi-epoch-millis': '98129812',
   'x-fapi-uuid': '431222',
   'x-fapi-serviceId': 'openapi',
