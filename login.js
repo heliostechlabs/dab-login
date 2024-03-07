@@ -1,6 +1,4 @@
-Name - Lead Name
-Email - ankush.thakur.helios@gmail.com
-Phone - 8544743818
+
 const axios = require('axios');
 const fs = require('fs');
 const https = require('https');
